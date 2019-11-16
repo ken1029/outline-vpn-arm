@@ -1,0 +1,2 @@
+export SB_IMAGE=ken1029/shadowbox:1.3.0-arm64;cat install_server.sh | bash;
+
