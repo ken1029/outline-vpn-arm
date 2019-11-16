@@ -1,2 +1,2 @@
-export SB_IMAGE=ken1029/shadowbox:1.3.0-armv7;cat armv7/install_server.sh | bash;
+export SB_IMAGE=ken1029/shadowbox:latest;cat armv7/install_server.sh | bash;
 
