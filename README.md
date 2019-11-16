@@ -1,2 +1,5 @@
 # outline-vpn-arm
-# outline-vpn-arm
+
+Install:
+./INSTALL-ARM64
+
